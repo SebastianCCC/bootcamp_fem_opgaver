@@ -43,13 +43,12 @@ label {
 
 #my-button {
 	padding: 8px;
-	background-color: #eee;
 	border: 1px solid #aaa;
 	border-radius: 5px;
 }
 
 .new_color {
-	color: #7f7;
+	background-color: #7f7;
 }
 
 #my-button:focus {
